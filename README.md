@@ -23,8 +23,12 @@ This data set is an excel file that was downloaded online. It contains 162 rows 
 
 ### Analysis
 pivot tables were used to explore the data and also used to answer question about the data.
+![HR pivot table](https://github.com/user-attachments/assets/80f1d371-6218-4ae5-a9d5-6c4b7a0f1897)
+
 
 ### Visualization
+![HR_analysis_dashborad](https://github.com/user-attachments/assets/c2075837-e393-42c4-99ce-17e7e6332900)
+
 
 ### Results and Findings
 - 2019 and 2020 tied for highest Employment distribution by job title across the years at 29, followed by 2021. 2017 had the lowest Employment distribution by job title across the years at 10
